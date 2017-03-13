@@ -8,6 +8,7 @@ propagate
 db
 rebuild-locales.pl
 /src
+/Raudra-Forum/static
 /static
 cache/??
 run
